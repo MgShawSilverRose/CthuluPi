@@ -1,0 +1,12 @@
+Contained in here are a bunch of working files developed using Fritzing.  
+
+At some future point, the detritus will be removed and the working designs will remain.  
+
+There are basically 3 levels of design here:  
+
+	1.  Breadboard prototype - basically slapping pieces onto a board and putting wires down to connect them. 
+
+	2.  Wirewrap - I broke things up into a series of small boards that can be built separately and arranged however you like.  
+
+	3.  PCB Board - I finally went here because there's enough bits that need to be put together that the wirewrap prototype got very dodgy.  
+
